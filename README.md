@@ -1,3 +1,7 @@
+# Description
+
+This is a simple react.js UI using Create React App for a Lottery Smart Contract deployed to the Rinkeby Test Network.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
